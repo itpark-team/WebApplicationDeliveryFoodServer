@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationDeliveryFoodServer", "WebApplicationDeliveryFoodServer\WebApplicationDeliveryFoodServer.csproj", "{B253A6F0-3774-4DE7-A58E-34E446467C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B253A6F0-3774-4DE7-A58E-34E446467C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B253A6F0-3774-4DE7-A58E-34E446467C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B253A6F0-3774-4DE7-A58E-34E446467C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B253A6F0-3774-4DE7-A58E-34E446467C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
